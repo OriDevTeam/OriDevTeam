@@ -16,6 +16,10 @@
 [projects:phoenix-formulae]: https://github.com/PhoenixFormulae
 [projects:code-shaper]: https://github.com/OriDevTeam/CodeShaper
 [projects:simple-libjigen]: https://github.com/OriDevTeam/simple-libjigen
+[projects:opengr2-rust]: https://github.com/OriDevTeam/opengr2-rust
+[projects:metin1-research]: https://github.com/OriDevTeam/Metin1-Research
+
+[projects:codeshaper]: https://github.com/OriDevTeam/CodeShaper
 <!-- PROJECTS -->
 
 
@@ -24,15 +28,28 @@
 ### I'm an Open/Closed Source software developer and Tech Enthusiast
 ___
 - 📰 Check my [Patreon](https://www.patreon.com/newwars) for a fresh feed of my activities !
-- 🔭 Stay tuned for upcoming Free Open Source releases !
-- 🌱 I’m currently learning the Rust language, i'm a Rustacean!
+- 🔭 Stay tuned for upcoming Open Source releases !
+- 🌱 I’m currently learning the Rust language, i'm a Rustacean !
 - 🥅 2022 Goals:
   - Release of [PhoenixFormulae][projects:phoenix-formulae], a engine framework for creation of game systems
   - Release of [CodeShaper][projects:code-shaper], a tool to automate code changes 
-- 🥅 Achieved Goals:
+- 🥅 Achieved 2022 Goals:
   - Release of [simple-libjigen][projects:simple-libjigen], a library and tool to handle data file formats
 ___
 
+## Table of Contents
+
+### Games:
+   - **Metin2**
+     - **[simple-libjigen][projects:simple-libjigen]**: A library and tool to handle data file formas
+     - **[opengr2-rust][projects:opengr2-rust]**: Rust bindings for the C I/O library for RAD Granny2 File Format
+   
+   - **Metin1**
+     - **[Metin1-Research][projects:simple-libjigen]**: An extensive research and wiki on Metin1 game data
+
+### Automation
+  - **Code**
+     - **[CodeShaper][projects:codeshaper]**: A tool to automate code changes using Regex and ANtlr4 
 
 ## Languages and Tools I use often
 ___
