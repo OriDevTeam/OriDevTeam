@@ -27,7 +27,7 @@ ___
 - 🔭 Stay tuned for upcoming Free Open Source releases !
 - 🌱 I’m currently learning the Rust language, i'm a Rustacean!
 - 🥅 2022 Goals:
-  - Release of [PhoenixFormulae][projects:phoenix-formulae], a core engine for creation of game systems
+  - Release of [PhoenixFormulae][projects:phoenix-formulae], a engine framework for creation of game systems
   - Release of [CodeShaper][projects:code-shaper], a tool to automate code changes 
 - 🥅 Achieved Goals:
   - Release of [simple-libjigen][projects:simple-libjigen], a library and tool to handle data file formats
