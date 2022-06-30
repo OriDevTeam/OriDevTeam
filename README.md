@@ -77,7 +77,6 @@ ___
 
 ![OriDevTeam's GitHub stats](https://github-readme-stats.vercel.app/api?username=oridevteam&count_private=true&theme=omni&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oridevteam&layout=compact)](https://github.com/oridevteam/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- STATISTICS -->
 
