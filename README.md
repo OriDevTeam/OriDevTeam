@@ -15,6 +15,7 @@
 <!-- PROJECTS -->
 [projects:phoenix-formulae]: https://github.com/PhoenixFormulae
 [projects:code-shaper]: https://github.com/OriDevTeam/CodeShaper
+[projects:simple-libjigen]: https://github.com/OriDevTeam/simple-libjigen
 <!-- PROJECTS -->
 
 
@@ -22,18 +23,21 @@
 ## Hello there, I'm NewWars 👋
 ### I'm an Open/Closed Source software developer and Tech Enthusiast
 ___
+- 📰 Check my [Patreon](https://www.patreon.com/newwars) for a fresh feed of my activities !
 - 🔭 Stay tuned for upcoming Free Open Source releases !
-- 🌱 I’m currently revisiting C# after a long break 🤣
+- 🌱 I’m currently learning the Rust language, i'm a Rustacean!
 - 🥅 2022 Goals:
   - Release of [PhoenixFormulae][projects:phoenix-formulae], a core engine for creation of game systems
   - Release of [CodeShaper][projects:code-shaper], a tool to automate code changes 
-
+- 🥅 Achieved Goals:
+  - Release of [simple-libjigen][projects:simple-libjigen], a library and tool to handle data file formats
 ___
 
 
 ## Languages and Tools I use often
 ___
 ### Languages:
+[<img align="left" alt="Rust" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/440px-Rustacean-orig-noshadow.svg.png" />]()
 [<img align="left" alt="Python" width="26px" src="https://www.python.org/static/opengraph-icon-200x200.png" />]()
 [<img align="left" alt="CSharp" width="26px" src="https://docs.microsoft.com/cs-cz/windows/images/csharp-logo.png" />]()
 [<img align="left" alt="CPP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" />]()
@@ -82,9 +86,7 @@ ___
 
 ## Socials and Profiles
 ___
-### Metin2 Community Profiles
-[<img align="left" alt="cyber-gamers.org" width="22px" src="https://cyber-gamers.org/uploads/monthly_2020_01/logo4.png.9efae3bb4071feae2eec45803066452b.png" />][cyber-gamers]
-[<img align="left" alt="metin2.dev" width="22px" src="https://metin2.dev/uploads/icons-logos/monthly_2020_08/128_icon.png.613f499aa807561358dd10f0a88bc53f.png" />][m2dev]
+
 
 <br />
 <br />
