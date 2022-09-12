@@ -6,12 +6,6 @@
 <!-- SOCIALS -->
 
 
-<!-- M2SOCIALS -->
-[cyber-gamers]: https://cyber-gamers.org/profile/3479-newwars/
-[m2dev]: https://metin2.dev/profile/8205-jung-jun-hyuck-fan/
-<!-- M2SOCIALS -->
-
-
 <!-- PROJECTS -->
 [projects:phoenix-formulae]: https://github.com/PhoenixFormulae
 [projects:code-shaper]: https://github.com/OriDevTeam/CodeShaper
@@ -25,16 +19,16 @@
 
 <!-- PROFILE -->
 ## Hello there, I'm NewWars 👋
-### I'm an Open/Closed Source software developer and Tech Enthusiast
+### I'm an Open Source software developer and Tech Enthusiast
 ___
 - 📰 Check my [Patreon](https://www.patreon.com/newwars) for a fresh feed of my activities !
 - 🔭 Stay tuned for upcoming Open Source releases !
 - 🌱 I’m currently learning the Rust language, i'm a Rustacean !
 - 🥅 2022 Goals:
-  - Release of [PhoenixFormulae][projects:phoenix-formulae], a engine framework for creation of game systems
   - Release of [CodeShaper][projects:code-shaper], a tool to automate code changes 
-- 🥅 Achieved 2022 Goals:
-  - Release of [simple-libjigen][projects:simple-libjigen], a library and tool to handle data file formats
+- 🥅 2023 Goals
+  - Release of [PhoenixFormulae][projects:phoenix-formulae], a engine framework for creation of game systems
+  
 ___
 
 ## Table of Contents
