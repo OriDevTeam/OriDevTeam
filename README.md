@@ -21,9 +21,9 @@
 ## Hello there, I'm NewWars 👋
 ### I'm an Open Source software developer and Tech Enthusiast
 ___
-- 📰 Check my [Patreon](https://www.patreon.com/newwars) for a fresh feed of my activities !
+- 📰 ~~Check my [Patreon](https://www.patreon.com/newwars) for a fresh feed of my activities !~~ Patreon posts coming soon
 - 🔭 Stay tuned for upcoming Open Source releases !
-- 🌱 I’m currently learning the Rust language, i'm a Rustacean !
+- 🌱 I'm a Rust enthusiast, an ongoing knowledge sweeping Rustacean !
 - 🥅 2022 Goals:
   - Release of [CodeShaper][projects:code-shaper], a tool to automate code changes 
 - 🥅 2023 Goals
