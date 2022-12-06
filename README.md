@@ -43,7 +43,7 @@ ___
 
 ### Automation
   - **Code**
-     - **[CodeShaper][projects:codeshaper]**: A tool to automate code changes using Regex and ANtlr4 
+     - **[CodeShaper][projects:codeshaper]**: A tool to automate code changes simplified using Regex and AST navigation
 
 ## Languages and Tools I use often
 ___
