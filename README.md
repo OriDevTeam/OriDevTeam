@@ -24,11 +24,11 @@ ___
 - 📰 ~~Check my [Patreon](https://www.patreon.com/newwars) for a fresh feed of my activities !~~ Patreon posts coming soon
 - 🔭 Stay tuned for upcoming Open Source releases !
 - 🌱 I'm a Rust enthusiast, an ongoing knowledge sweeping Rustacean !
-- 🥅 2022 Goals:
+- 🥅 2023 Goals:
   - Release of [CodeShaper][projects:code-shaper], a tool to automate code changes 
-- 🥅 2023 Goals
   - Release of [PhoenixFormulae][projects:phoenix-formulae], a engine framework for creation of game systems
-  
+- 🥅 2024 Goals
+  - Try to make sure that past goals are completed !
 ___
 
 ## Table of Contents
